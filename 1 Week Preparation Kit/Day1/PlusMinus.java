@@ -29,5 +29,6 @@ public class PlusMinus {
             arr.add(sc.nextInt());
         }
         Result.plusMinus(arr);
+        sc.close();
     }
 }

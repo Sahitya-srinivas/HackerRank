@@ -17,5 +17,6 @@ public class TimeConversion {
         String s = sc.nextLine();
         String result = Result.timeConversion(s);
         System.out.println(result);
+        sc.close();
     }
 }

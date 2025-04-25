@@ -34,5 +34,6 @@ public class MiniMaxSum {
             arr.add(sc.nextInt());
         }
         Result.miniMaxSum(arr);
+        sc.close();
     }
 }
